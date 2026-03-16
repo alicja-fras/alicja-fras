@@ -1,16 +1,26 @@
-# Alicja Fraś
+# Alicja FraÅ›
 
-Senior AI Consultant at **Sigmoidal LLC**.
-
-With a strong foundation in economics and data analysis from the Poznań University of Economics and Business, I specialize in bridging the gap between advanced artificial intelligence and practical business strategy.
-
-### 💼 What I Do
-* **AI Consulting**: Advising enterprises on how to implement AI solutions that drive real ROI and operational efficiency.
-* **Data Strategy**: Translating complex data into actionable insights for strategic decision-making.
-* **Research & Analysis**: Leveraging my background in academic research to apply rigorous analytical methods to business problems.
-
-### 🎓 Education
-* **Master's Degree** - Poznań University of Economics and Business.
+Senior AI Consultant at **Sigmoidal**, specializing in translating complex Data and AI into actionable business strategies. Researcher at **PoznaÅ„ University of Economics and Business** with a focus on monetary policy and financial markets.
 
 ---
-[LinkedIn](https://www.linkedin.com/in/alicja-fra%C5%9B-91b01433/) • [Sigmoidal](https://sigmoidal.io)
+
+### ðŸ“Š Summary
+- **AI Consulting:** Expert in AI implementation and data-driven strategy for business growth.
+- **Financial Research:** Academic focus on passive investment strategies (Smart Beta) and mutual fund performance.
+- **Technical Background:** Skilled in statistical modeling and software development.
+
+### ðŸ›  Proficiencies
+- **Programming:** R, Python, SQL
+- **Analysis:** Statistical Modeling, Data Analysis, Econometrics, Smart Beta Strategies
+- **Domains:** AI Strategy, Quantitative Finance, Monetary Policy, IT Project Management
+
+### ðŸ’¡ Expertise
+- **Quantitative Research:** Author of multiple papers on Polish financial markets.
+- **AI Strategy:** Bridge the gap between technical AI capabilities and executive business goals.
+- **Product Development:** Managing the intersection of IT services and business logic.
+
+---
+
+### ðŸ“« Contact
+- **Email:** [alicjafras@outlook.com](mailto:alicjafras@outlook.com)
+- **LinkedIn:** [Alicja FraÅ›](https://www.linkedin.com/in/alicja-fra%C5%9B-91b01433/)
